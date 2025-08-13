@@ -1,1 +1,1 @@
-# Project 3-1: Pathtracer
+# CS 184 final project
